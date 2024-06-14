@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/picknik_ament_copyright-release.git
 tracks:
   foxy:
     actions:
